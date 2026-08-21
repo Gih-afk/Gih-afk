@@ -26,4 +26,4 @@ Ainda estou explorando minhas possibilidades profissionais, mas tenho interesse 
 
 ## 🔗 LinkedIn
 
-Em breve.
+[Meu LinkedIn](https://linkedin.com/in/gih-afk)
