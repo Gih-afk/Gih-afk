@@ -8,17 +8,17 @@ Atualmente, estou explorando diferentes áreas do desenvolvimento e buscando ent
 
 💻 Áreas de interesse
 
-Design;
-Desenvolvimento Front-end para Web;
-Banco de Dados;
-Design profissional;
+Design
+Desenvolvimento Front-end para Web
+Banco de Dados
+Design profissional
 
 📚 Atualmente estudando
 
-Front-end para Web;
-Banco de Dados;
-Design profissional;
-Pensamento computacional;
+Front-end para Web
+Banco de Dados
+Design profissional
+Pensamento computacional
 
 🎯 Objetivo
 
