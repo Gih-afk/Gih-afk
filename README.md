@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá! Eu sou Gih 👋
 
-<!--
-**Gih-afk/Gih-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse principalmente na área de Design dentro da Tecnologia.
 
-Here are some ideas to get you started:
+🎨 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou explorando diferentes áreas do desenvolvimento e buscando entender como posso unir tecnologia e design na minha trajetória profissional.
+
+💻 Áreas de interesse
+Design
+Desenvolvimento Front-end para Web
+Banco de Dados
+Design profissional
+
+📚 Atualmente estudando
+Front-end para Web
+Banco de Dados
+Design profissional
+Pensamento computacional
+
+🎯 Objetivo
+
+Ainda estou explorando minhas possibilidades profissionais, mas tenho interesse em construir minha trajetória em áreas relacionadas a Design e Tecnologia, buscando desenvolver meus conhecimentos e descobrir em qual área posso me especializar.
+
+🔗 LinkedIn
+
+Em breve.
