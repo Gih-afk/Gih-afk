@@ -1,8 +1,8 @@
-Olá! Eu sou Gih 👋
+## Olá! Eu sou Gih 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse principalmente na área de Design dentro da Tecnologia.
 
-🎨 Sobre mim
+## 🎨 Sobre mim
 
 Atualmente, estou explorando diferentes áreas do desenvolvimento e buscando entender como posso unir tecnologia e design na minha trajetória profissional.
 
@@ -20,10 +20,10 @@ Atualmente, estou explorando diferentes áreas do desenvolvimento e buscando ent
 - Design profissional
 - Pensamento computacional
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Ainda estou explorando minhas possibilidades profissionais, mas tenho interesse em construir minha trajetória em áreas relacionadas a Design e Tecnologia, buscando desenvolver meus conhecimentos e descobrir em qual área posso me especializar.
 
-🔗 LinkedIn
+## 🔗 LinkedIn
 
 Em breve.
