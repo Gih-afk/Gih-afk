@@ -6,19 +6,19 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse princi
 
 Atualmente, estou explorando diferentes áreas do desenvolvimento e buscando entender como posso unir tecnologia e design na minha trajetória profissional.
 
-💻 Áreas de interesse
+## 💻 Áreas de interesse
 
-Design
-Desenvolvimento Front-end para Web
-Banco de Dados
-Design profissional
+- Design
+- Desenvolvimento Front-end para Web
+- Banco de Dados
+- Design profissional
 
-📚 Atualmente estudando
+## 📚 Atualmente estudando
 
-Front-end para Web
-Banco de Dados
-Design profissional
-Pensamento computacional
+- Front-end para Web
+- Banco de Dados
+- Design profissional
+- Pensamento computacional
 
 🎯 Objetivo
 
